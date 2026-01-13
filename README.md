@@ -32,6 +32,9 @@ Identificação dos países com maiores e menores níveis de felicidade em cada 
 ### 2️⃣ Evolução da felicidade média global
 Análise da média global do Happiness Score entre 2015 e 2019.
 
+![Evolução da felicidade global](imgs/evolucao_felicidade_global.png)
+
+
 ### 3️⃣ Distribuição do Happiness Score
 Histogramas para entender a distribuição da felicidade em cada ano.
 
